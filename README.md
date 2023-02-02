@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iswilson_" target="blank"><img src="https://img.shields.io/twitter/follow/iswilson_?logo=twitter&style=for-the-badge" alt="iswilson_" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C++, Linux**
 
