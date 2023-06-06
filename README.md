@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C++, Linux**
 
-- 📫 How to reach me **iswilsonkojo@gmail.com**
+- 📫 How to reach me **iswilson.dev@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I have a good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
