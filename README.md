@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="286" src="https://kanhasoft.com/blog/wp-content/uploads/2024/01/Custom-Software-Development-.webp"  />
+  <img height="305" src="Custom-Software-Development-.webp"  />
 </div>
 
 ###
