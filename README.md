@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++, Linux**
+- 💬 Ask me about **C#, JavaScript, Linux**
 
 - 📫 How to reach me **iswilson.dev@gmail.com**
 
